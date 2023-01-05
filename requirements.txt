@@ -3,4 +3,5 @@ nltk
 scikit-learn
 tensorflow
 tensorflow-text>=2.8
+tensorflow-addons
 tf-models-official
